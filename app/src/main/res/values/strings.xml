@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">The Weather App</string>
+    <string name="button_name">Check Weather</string>
+</resources>
